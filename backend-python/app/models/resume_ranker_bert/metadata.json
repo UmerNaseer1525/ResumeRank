@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "kind": "bert_sequence_classifier_v1",
+  "task": "binary_relevance",
+  "threshold": 0.5,
+  "baseModel": "distilbert-base-uncased",
+  "max_length": 256,
+  "trainedAt": "2026-04-24T10:04:06.530344+00:00",
+  "datasetSource": "D:\\Sem 6\\AI\\Resume_Screener_AI\\Resume_Screener_AI\\resumes.jsonl",
+  "metrics": {
+    "accuracy": 0.7472527472527473,
+    "precision": 0.7142857142857143,
+    "recall": 0.7317073170731707,
+    "f1": 0.7228915662650602,
+    "mae": null,
+    "r2": null,
+    "cvF1": null,
+    "sampleCount": 455,
+    "positiveLabelCount": 207,
+    "negativeLabelCount": 248
+  }
+}
