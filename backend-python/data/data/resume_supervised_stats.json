@@ -1,0 +1,21 @@
+{
+  "input_path": "D:\\Sem 6\\AI\\Resume_Screener_AI\\Resume_Screener_AI\\resumes.jsonl",
+  "output_path": "D:\\Sem 6\\AI\\Resume_Screener_AI\\Resume_Screener_AI\\backend-python\\data\\resume_supervised.jsonl",
+  "total_lines": 455,
+  "invalid_lines": 0,
+  "written_rows": 455,
+  "positive_labels": 56,
+  "negative_labels": 399,
+  "positive_ratio": 0.1231,
+  "role_distribution": {
+    "other": 157,
+    "ui_ux_designer": 100,
+    "ml_engineer": 62,
+    "data_scientist": 53,
+    "backend_engineer": 28,
+    "devops_cloud": 26,
+    "frontend_engineer": 16,
+    "support_engineer": 9,
+    "technical_recruiter": 4
+  }
+}
